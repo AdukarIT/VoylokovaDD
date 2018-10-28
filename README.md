@@ -10,7 +10,10 @@
 1) http://jsfiddle.net/4zvhy1j7/
 2) http://jsfiddle.net/sz8a1ump/
 
-#ДЗ к уроку 3
+##ДЗ к уроку 3
 
-Задание 1
-https://jsfiddle.net/tgwx2dpj/1/
+Задание 1:
+https://github.com/AdukarIT/VoylokovaDD/tree/master/Сервис%20ремонта%20мобильных%20телефонов
+
+Задание 2:
+https://github.com/AdukarIT/VoylokovaDD/tree/master/Магазин%20оргтехники
