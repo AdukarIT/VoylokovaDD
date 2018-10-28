@@ -9,3 +9,8 @@
 Задание 2:
 1) http://jsfiddle.net/4zvhy1j7/
 2) http://jsfiddle.net/sz8a1ump/
+
+#ДЗ к уроку 3
+
+Задание 1
+https://jsfiddle.net/tgwx2dpj/1/
