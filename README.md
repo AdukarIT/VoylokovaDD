@@ -16,4 +16,8 @@
 https://github.com/AdukarIT/VoylokovaDD/tree/master/Сервис%20ремонта%20мобильных%20телефонов
 
 Задание 2:
+<<<<<<< HEAD
 https://github.com/AdukarIT/VoylokovaDD/tree/master/Магазин%20оргтехники
+=======
+https://github.com/AdukarIT/VoylokovaDD/tree/master/Магазин%20оргтехники
+>>>>>>> cc2d8e84a74d4164b01d535bdec30bddaae6fe64
