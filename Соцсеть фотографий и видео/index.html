@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="UTF-8">
+
+<title>Страница входа</title>
+</head>
+
+<body>
+  <header>
+	  <img src="images/insta.png" height="100" alt="Фотосити">
+    <h1> Фотосити</h1>
+
+  </header>
+    <div id="sing_in">
+	  <form action="feed.html" name="sing_in" method="post">
+	    <p>
+			<label>Введите e-mail
+			 <input type="email" name="email" required >
+			</label>
+		</p>
+	    <p>
+			<label>
+				Ваш пароль:
+				<input type="password" name="pass" required>
+			</label>
+		</p>
+		  <button > Вход</button>
+	  </form>
+	</div>
+    <div id="sing_up">
+	  <form action="feed.html"  name="form_register" method="post">
+	    <p>Регистрация:</p>
+        <p>Имя пользователя<input name="user" type="text" required ></p>
+		<p>Ваш Email<input name="email" type="email" required ></p>
+	    <p>Ваш пароль<input name="pass" type="password" required ></p>
+		<p>Подтверждение пароля<input name="re_pass" type="password" required ></p>
+		<button name="form_register">
+			Регистрация
+		</button>
+	  </form>	
+    </div>
+	  
+</body>
+</html>
