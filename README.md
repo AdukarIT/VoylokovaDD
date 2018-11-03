@@ -17,3 +17,11 @@ https://github.com/AdukarIT/VoylokovaDD/tree/master/Сервис%20ремонт�
 
 Задание 2:
 https://github.com/AdukarIT/VoylokovaDD/tree/master/Магазин%20оргтехники
+
+## Продвинутый HTML
+
+Задание 1:
+https://github.com/AdukarIT/VoylokovaDD/tree/master/Соцсеть%20фотографий%20и%20видео
+
+Задание 2:
+https://github.com/AdukarIT/VoylokovaDD/tree/master/Сайт%20руководств%20по%20изучению%20иностранных%20языков
