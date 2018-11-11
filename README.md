@@ -18,10 +18,10 @@ https://github.com/AdukarIT/VoylokovaDD/tree/master/Сервис%20ремонт�
 Задание 2:
 https://github.com/AdukarIT/VoylokovaDD/tree/master/Магазин%20оргтехники
 
-## Продвинутый HTML
+##ДЗ CSS. Позиционирование
 
-Задание 1:
-https://github.com/AdukarIT/VoylokovaDD/tree/master/Соцсеть%20фотографий%20и%20видео
+1.https://webref.ru/node/1865/quiz-results/2580/view
+ 
+2.https://webref.ru/node/1459/quiz-results/2594/view
 
-Задание 2:
-https://github.com/AdukarIT/VoylokovaDD/tree/master/Сайт%20руководств%20по%20изучению%20иностранных%20языков
+3.https://webref.ru/node/1921/quiz-results/2687/view
