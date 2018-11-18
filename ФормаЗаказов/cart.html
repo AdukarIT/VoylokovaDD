@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Оформить заказ</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<header>
+    <h1>МегаТех</h1>
+</header>
+  <span>
+    <ul class="menu">
+        <li class="menu-main">
+            <a href="">Бытовая техника</a>
+            <ul class="menu-sub">
+                <li><a href="">Стиральные машины</a></li>
+                <li><a href="">Пылесосы</a></li>
+                <li><a href="">Утюги</a></li>
+                <li><a href="">Электровеники</a></li>
+                <li><a href="">Сушилки для обуви</a></li>
+            </ul>
+        </li>
+        <li class="menu-main">
+            <a href="">Техника для кухни</a>
+            <ul class="menu-sub">
+                <li><a href="">Холодильники</a></li>
+                <li><a href="">Кухонные плиты</a></li>
+                <li><a href="">Морозильники</a></li>
+                <li><a href="">Настольные плиты</a></li>
+                <li><a href="">Ростеры, мини-печи</a></li>
+                <li><a href="">Вытяжки</a></li>
+                <li><a href="">Микроволновые печи</a></li>
+            </ul>
+        </li>
+        <li class="menu-main">
+            <a href="">Компьютерная техника</a>
+            <ul class="menu-sub">
+                <li><a href="">Ноутбуки</a></li>
+                <li><a href="">Планшеты</a></li>
+                <li><a href="">Компьютеры, моноблоки</a></li>
+                <li><a href="">Игровые приставки</a></li>
+                <li><a href="">Серверное оборудование</a></li>
+            </ul>
+        </li>
+        <li class="menu-main">
+            <a href="">Корзина</a>
+        </li>
+    </ul>
+  </span>
+  <div>
+      <b>Оформление заказа</b>
+      <form name="order" method="post">
+          <p>
+              <label>Ваше имя<br>
+                  <input type="text" name="userfirstname" placeholder="имя" autocomplete="on" required>
+              </label>
+          </p>
+          <p>
+              <label>Ваше фамилия<br>
+                  <input type="text" name="usersecondrname" placeholder="фамилия" autocomplete="on" required>
+              </label>
+          </p>
+          <p>
+              <label>Email<br>
+                  <input type="email" placeholder="email" name="email" autocomplete="on" required>
+              </label>
+          </p>
+          <p>
+              <label>Ваш номер телефона<br>
+                  <input type="tel" placeholder="номер телефона" name="phonenumber" autocomplete="on">
+              </label>
+          </p>
+          <p>Способ доставки</p>
+          <div>
+              <input class="self-shipping" type="radio" name="shipping" />
+              <span>Самовывоз со склада по адресу <label for="checkmap"><u>Проспект Независимости</u></label></span><br>
+          </div>
+          <input class="checkmap" type="checkbox" id="checkmap">
+          <div class="self" id="selfbutton">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1174.5281367154155!2d27.633935739378384!3d53.93074409831114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcee1aeaf0101%3A0xac6e8eda933d3b31!2z0L_RgNC-0YHQv9C10LrRgiDQndC10LfQsNCy0LjRgdC40LzQvtGB0YLQuCAxMTcsINCc0LjQvdGB0Lo!5e0!3m2!1sru!2sby!4v1542485122286" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>"
+                      width="400" height="300" style="border:0" allowfullscreen></iframe><br>
+          </div>
+          <input class="inputcourier" id="inputcourier" type="radio" name="shipping" />
+          <label for="inputcourier">Доставка курьером</label>
+          <div class="courier">
+              <label>Укажите адрес доставки:
+                  <input type="text" placeholder="ваш адрес" name="adress" required>
+              </label>
+          </div>
+          <p>
+              <label>Комментарий к заказу:<br>
+                  <textarea cols="30" rows="5" name="additional_info" placeholder="ваш комментарий"></textarea>
+              </label>
+          </p>
+          <div class="applybutton">
+              <input class="agreed" type="checkbox" required /> Подтверждая данный пункт вы соглашаетесь с <a href="https://5element.by/services/1003-dostavka-i-samovyvoz">условиями доставки</a><br />
+              <input class="enabledbutton" type="submit" value="Подтвердить заказ">
+              <input class="disabledbutton" type="submit" value="Подтвердить заказ" disabled>
+          </div>
+      </form><br />
+      <section>
+          <h3>Наши контакты</h3>
+          <p>Работаем без выходных<br>
+              С 9:00 до 21:00<br>
+              Сделать Связвться с нами по телефону +375(29)323 09 90<br>
+              Наш адрес: г. Минск Проспект Независимости 117<br>
+              Пункты самовывоза по адресу:<br>
+              г.Минск Проспект Независимости 117
+      </section>
+  </div>
+</body>
+</html>
