@@ -1,27 +1,33 @@
-п»ї# Р”РѕРјР°С€РЅРµРµ Р·Р°РґР°РЅРёРµ РїРѕ WEB-СЂР°Р·СЂР°Р±РѕС‚РєРµ
+# Домашнее задание по WEB-разработке
 
-## Р”Р· Рє СѓСЂРѕРєСѓ 1
-Р—Р°РґР°РЅРёРµ 1:
+## Дз к уроку 1
+Задание 1:
 1) 301
 2) Server: Internet Information services
 3) Locasion : https://www.google.com/ 
 
-Р—Р°РґР°РЅРёРµ 2:
+Задание 2:
 1) http://jsfiddle.net/4zvhy1j7/
 2) http://jsfiddle.net/sz8a1ump/
 
-##Р”Р— Рє СѓСЂРѕРєСѓ 3
+##ДЗ к уроку 3
 
-Р—Р°РґР°РЅРёРµ 1:
-https://github.com/AdukarIT/VoylokovaDD/tree/master/РЎРµСЂРІРёСЃ%20СЂРµРјРѕРЅС‚Р°%20РјРѕР±РёР»СЊРЅС‹С…%20С‚РµР»РµС„РѕРЅРѕРІ
+Задание 1:
+https://github.com/AdukarIT/VoylokovaDD/tree/master/Сервис%20ремонта%20мобильных%20телефонов
 
-Р—Р°РґР°РЅРёРµ 2:
-https://github.com/AdukarIT/VoylokovaDD/tree/master/РњР°РіР°Р·РёРЅ%20РѕСЂРіС‚РµС…РЅРёРєРё
+Задание 2:
+https://github.com/AdukarIT/VoylokovaDD/tree/master/Магазин%20оргтехники
 
-##Р”Р— CSS. РџРѕР·РёС†РёРѕРЅРёСЂРѕРІР°РЅРёРµ
+##ДЗ CSS. Позиционирование
 
 1.https://webref.ru/node/1865/quiz-results/2580/view
  
 2.https://webref.ru/node/1459/quiz-results/2594/view
 
 3.https://webref.ru/node/1921/quiz-results/2687/view
+
+
+
+## Практика 4.Основы CSS. Позиционирование
+
+1.https://github.com/AdukarIT/VoylokovaDD/tree/master/ФормаЗаказов
