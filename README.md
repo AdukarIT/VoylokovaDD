@@ -14,6 +14,6 @@
 
 ## Pr6. CSS. Flexbox
 
-1.https://github.com/AdukarIT/VoylokovaDD/tree/master/Практика6/Задание1
+1.https://github.com/AdukarIT/VoylokovaDD/tree/master/РџСЂР°РєС‚РёРєР°6/Р—Р°РґР°РЅРёРµ1
 
-2.https://github.com/AdukarIT/VoylokovaDD/tree/master/Практика6/Задание2
+2.https://github.com/AdukarIT/VoylokovaDD/tree/master/РџСЂР°РєС‚РёРєР°6/Р—Р°РґР°РЅРёРµ2
