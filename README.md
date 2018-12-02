@@ -33,6 +33,7 @@ https://github.com/AdukarIT/VoylokovaDD/tree/master/Магазин%20оргтехники
 1.https://github.com/AdukarIT/VoylokovaDD/tree/master/ФормаЗаказов
 
 
+
 ## Практика 5 CSS. Стилистическое оформление элементов
 
 1.https://github.com/AdukarIT/VoylokovaDD/tree/master/6.1
