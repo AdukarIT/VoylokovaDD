@@ -1,8 +1,5 @@
-# Домашнее задание по WEB-разработке
 
-
-
-## Практика 5 CSS. Стилистическое оформление элементов
+## Pr5 CSS. Style
 
 1.https://github.com/AdukarIT/VoylokovaDD/tree/master/6.1
 
@@ -15,7 +12,7 @@
 
 
 
-## Првктика 6. CSS. Flexbox
+## Pr6. CSS. Flexbox
 
 1.https://github.com/AdukarIT/VoylokovaDD/tree/master/Практика6/Задание1
 
