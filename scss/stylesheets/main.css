@@ -1,0 +1,40 @@
+.connect {
+  display: flex;
+  padding: 10px;
+  background-color: #565;
+  border: 1px solid #e55;
+}
+
+.head-services, .devices, .comments, .contact {
+  display: inline-block;
+  padding: 10px;
+  background-color: #565;
+  border: 1px solid #e55;
+}
+
+.catalog {
+  display: flex;
+  height: 10%;
+  width: auto;
+}
+
+.services, .recomend {
+  display: inline-block;
+  padding: 5px;
+  background-color: #e3e;
+  border: 3px solid #e55;
+}
+
+.services:hover {
+  background-color: #e9e;
+}
+
+.recomend :hover {
+  background-color: #e9e;
+}
+
+body {
+  background-color: lightpink;
+}
+
+/*# sourceMappingURL=main.css.map */
