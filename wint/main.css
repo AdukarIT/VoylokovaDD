@@ -15,6 +15,6 @@
 }
 .object{
     position: absolute;
-    transition: all 10s ease;
+    transition: all 5s ease-out;
     -webkit-transition: all 3s ease;
 }
