@@ -1,0 +1,28 @@
+.box{
+    width: 700px;
+    height: 160px;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+.one {
+    display:none  ;
+
+}
+
+.one:checked ~ .one__move {
+    transform: translate(548px, 0);
+}
+
+.one__move {
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    transition: all 3s ease;
+    border-radius: 50%;
+    background: url("balll.png") ;
+    background-size: 100% auto;
+    cursor: pointer;
+
+}
+

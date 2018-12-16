@@ -1,0 +1,18 @@
+
+.cont {
+    width: 66px;
+    height: 135px;
+    background-image: url("sheet.jpg");
+    ;
+}
+
+.cont:hover{
+    animation: moveX 0.3s steps(7) infinite;
+}
+
+@keyframes moveX {
+    from{background-position: 0;}
+    to{background-position: -462px;}
+
+}
+
